@@ -1,1 +1,2 @@
 THis is new fileB
+.This is another content added by dipak
